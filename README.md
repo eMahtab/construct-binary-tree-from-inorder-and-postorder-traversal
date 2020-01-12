@@ -1,1 +1,1 @@
-# construct-binary-tree-from-inorder-and-postorder-traversal
+# Construct Binary Tree from Inorder and Postorder Traversal
